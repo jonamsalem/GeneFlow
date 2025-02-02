@@ -1,4 +1,4 @@
-# GeneFlow
+# GeneFlow 🧬
 RNA-Seq analysis pipeline that efficiently processes sequencing data. Streamlit for UI.
 
 
@@ -29,9 +29,9 @@ You can install these tools using package managers like `apt`, `brew`, or `conda
 
 ---
 
-## Running the Pipeline
+## Running the App 
 
-### 1. `pipeline.sh`
+`streamlit run app.py` or `pipeline.sh` for running the pipeline directly through the script.
 
 The `pipeline.sh` script automates the following RNA-Seq steps:
 - **Quality Control** using `fastqc`
